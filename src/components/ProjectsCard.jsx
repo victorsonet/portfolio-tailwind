@@ -9,7 +9,7 @@ function ProjectsCard({ id, img, url, github, title, text }) {
         alt={title}
         className="w-full object-cover rounded-t-lg h-64"
       />
-      <div className="capitalize p-8">
+      <div className=" p-8">
         <h2 className="text-xl tracking-wide font-medium">{title}</h2>
         <p className="mt-4 text-slate-700 leading-loose">{text}</p>
         <div className="mt-4 flex gap-x-4">

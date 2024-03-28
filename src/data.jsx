@@ -36,7 +36,7 @@ export const projects = [
     url: "https://vics-comfystore.netlify.app/",
     github: "https://github.com/victorsonet/comfy_store",
     title: "Comfy Store",
-    text: "A site where you can purchase home fornitures and additional products like lamps etc... There is an opportunity to keep track of your cart and orders and you can use those by Registering or with the Demo user.",
+    text: "A site where you can purchase home fornitures and additional products like lamps etc. There is an opportunity to keep track of your cart and orders and you can use those by Registering or with the Demo user.",
   },
   {
     id: nanoid(),
