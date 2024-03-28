@@ -36,7 +36,7 @@ export const projects = [
     url: "https://vics-comfystore.netlify.app/",
     github: "https://github.com/victorsonet/comfy_store",
     title: "Comfy Store",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "A site where you can purchase home fornitures and additional products like lamps etc... There is an opportunity to keep track of your cart and orders and you can use those by Registering or with the Demo user.",
   },
   {
     id: nanoid(),
@@ -44,7 +44,7 @@ export const projects = [
     url: "https://vics-jobster-project.netlify.app/",
     github: "https://github.com/victorsonet/jobster-project",
     title: "Jobster",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "A job tracking App where you can keep track of your job applications so you always know which phase are you in with them. Additional stats page provided.",
   },
   {
     id: nanoid(),
@@ -52,6 +52,6 @@ export const projects = [
     url: "https://vics-github-users-search.netlify.app/",
     github: "https://github.com/victorsonet/github_users",
     title: "Github Users Search",
-    text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Asperiores aperiam porro impedit tenetur quo hic omnis doloribus dolores enim deleniti.",
+    text: "A place where you can search for GitHub users profile informations (amount of repos, amount of followers etc.) with an included Login page and authentication.",
   },
 ];
